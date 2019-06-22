@@ -1,0 +1,12 @@
+ID,Description,Pattern,Color1,Color2,Color3,Color1Weight,Color2Weight,Color3Weight,Weight,Buttons,LongSleeve,LastWorn,Liking,Jeans,LightJeans,DarkJeans,DarkGray,LightGray,KhakiShort,LightShort,BlueShort,RedShort,DarkShort
+s000,World map,Print,#614975,#BBBBBB,#FFFFFF,0.9,0.1,0,Light,0,0,,2,1,0,1,1,1,0,1,0,0,1
+s001,Liberty Square BOTB,Floral,#FFFFFF,#263244,#FFFFFF,0.6,0.4,0,Light,1,1,,2,0,0,1,1,0,0,0,0,0,0
+s002,Vans light plaid,Plaid,#F7F7EA,#8E1318,#263244,0.9,0.05,0.05,Mid,1,1,,2,1,0,1,1,0,0,0,0,0,0
+s003,Brother Joseph,Mono,#FBFCD6,#FBFCD6,#FBFCD6,1,0,0,Mid,1,1,,1,1,0,1,1,0,0,0,0,0,0
+s004,8th grade,Plaid,#FFFFFF,#263244,#AFB7D3,0.5,0.25,0.25,Light,1,1,,1,0,1,0,0,1,0,0,0,0,0
+s005,23rd birthday,Plaid,#FFFFFF,#263244,#AFB7D3,0.333333333,0.333333333,0.333333333,Mid,1,1,,1,1,0,1,1,0,0,0,0,0,0
+s006,Line guitar,Print,#8D8065,#000000,#FFFFFF,0.9,0.1,0,Light,0,0,,2,1,1,1,1,0,0,0,0,0,1
+s007,Flamingo,Patterned,#3B8FC6,#000000,#FFFFFF,0.9,0.1,0,Light,1,0,,2,1,0,1,1,1,1,1,0,0,1
+s008,Parrot,Patterned,#000000,#47D8E8,#FF0000,0.5,0.25,0.25,Light,1,0,,3,1,1,0,0,1,0,1,0,0,0
+s009,Fender,Text,#000000,#FFFFFF,#FFFFFF,0.95,0.05,0,Light,0,1,,3,1,1,0,0,1,0,0,0,0,0
+s010,Toucan,Print,#FFE2EB,#6D6D6D,#FFFAEA,0.8,0.15,0.05,Light,0,0,,2,1,1,1,1,1,0,1,1,0,0
