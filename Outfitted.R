@@ -30,7 +30,7 @@ outfit %>%
     Priority = 1
   ) %>% 
   arrange(sample(1:n()), desc(Priority)) %>% 
-  head(7) %>% 
+
   select(Description, Pants)
 
 #-------------------------------------------------------------------------------
