@@ -1,0 +1,41 @@
+ID,Description,Pattern,Weight,Buttons,LongSleeve,Liking,LightJeans,DarkJeans,DarkGray,LightGray,KhakiShort,LightShort,BlueShort,DarkShort,Jeans1,Jeans2,Jeans3
+s000,World map,Print,Light,0,0,2,0,1,1,1,0,1,0,1,1,1,1
+s001,Liberty Square BOTB,Floral,Light,1,1,2,0,1,1,0,0,0,0,0,0,0,0
+s002,Vans light plaid,Plaid,Mid,1,1,2,0,1,1,0,0,0,0,0,1,1,1
+s003,Brother Joseph,Mono,Mid,1,1,1,0,1,1,0,0,0,0,0,1,1,1
+s004,8th grade,Plaid,Light,1,1,1,1,0,0,1,0,0,0,0,0,0,0
+s005,23rd birthday,Plaid,Mid,1,1,1,0,1,1,0,0,0,0,0,1,1,1
+s006,Line guitar,Print,Light,0,0,2,1,1,1,0,0,0,0,1,1,1,1
+s007,Flamingo,Patterned,Light,1,0,2,0,1,1,1,1,1,1,1,1,1,1
+s008,Parrot,Patterned,Light,1,0,3,1,0,0,1,0,1,0,0,1,1,1
+s009,Fender,Text,Light,0,1,3,1,0,0,1,0,0,0,0,1,1,1
+s010,Toucan,Print,Light,0,0,2,1,1,1,1,0,1,1,0,1,1,1
+s011,Vans desert,Plaid,Mid,1,1,2,0,1,1,0,0,0,0,0,1,1,1
+s012,Cody,Plaid,Mid,1,1,2,0,1,1,0,0,0,0,0,1,1,1
+s013,Solid Navy,Solid,Mid,1,1,2,1,0,0,1,0,0,0,0,0,0,0
+s014,Gap Blue,Solid,Light,1,1,1,0,1,1,1,0,0,0,0,0,0,0
+s015,Gap Red,Solid,Light,1,1,2,0,1,1,0,0,0,0,0,1,1,1
+s016,Ukulele,Patterned,Light,1,0,2,0,1,1,0,0,0,1,1,1,1,1
+s017,Jungle,Patterned,Light,1,0,2,0,0,0,1,0,1,0,0,1,1,1
+s018,Pineapple,Patterned,Light,1,0,3,0,1,0,0,0,0,1,1,1,1,1
+s019,Navy Palm,Patterned,Light,1,0,2,1,0,0,1,1,1,0,0,0,0,0
+s020,Army,Solid,Light,1,1,2,0,0,1,0,0,0,0,0,1,1,1
+s021,BG Plaid,Plaid,Mid,1,1,2,1,0,0,1,0,0,0,0,0,0,0
+s022,Paint Stain,Denim,Light,1,0,2,0,0,1,1,0,0,0,1,1,1,1
+s024,Lumberjack,Plaid,Mid,1,1,3,0,0,0,1,0,0,0,0,1,1,1
+s025,Bird Guitar,Print,Light,0,0,3,1,0,0,1,1,1,0,0,0,0,0
+s026,Van Goghsky,Print,Light,0,0,2,0,0,1,0,0,0,1,1,1,1,1
+s027,Rainbow Map,Print,Light,0,0,2,1,0,0,1,1,1,0,0,0,0,0
+s028,Golden Ratio,Print,Light,0,0,3,1,1,0,1,1,1,0,0,1,1,1
+s029,Solar System,Print,Light,0,0,2,1,0,0,1,1,1,0,0,0,0,0
+s030,Puffin,Print,Light,0,0,2,0,0,0,0,0,0,0,0,1,1,1
+s031,NASA,Print,Light,0,0,2,0,1,1,0,0,0,0,0,1,1,1
+s032,Purple Sunset,Print,Light,0,0,1,0,1,1,0,1,1,0,0,1,1,1
+s033,Ron Jon,Print,Light,0,0,1,0,1,1,0,1,0,0,1,1,1,1
+s034,Jazz,Text,Light,0,0,2,1,0,0,1,1,1,0,0,0,0,0
+s035,Navy T,Solid,Light,0,0,2,1,0,0,1,1,1,0,0,0,0,0
+s037,Maroon T,Solid,Light,0,0,2,1,1,0,1,0,1,0,0,1,1,1
+s038,5FTF,Text,Light,0,0,3,1,1,0,1,1,1,0,0,1,1,1
+s039,Qualtrics Black,Text,Light,0,0,2,1,1,0,1,1,1,0,0,1,1,1
+s040,Mystery,Print,Light,0,0,2,0,0,0,1,0,0,0,0,1,1,1
+s041,Kilby,Solid,Light,0,1,2,0,0,0,1,0,0,0,0,1,1,1
